@@ -25,11 +25,11 @@ Je suis passionné par l'informatique depuis mon plus jeune âge. J'apprends l'I
 Ahhhh Diffuse Ta Pub. Un serveur crée le lundi 20 décembre 2021 à 17:38.
 Celui-ci est un serveur pub. Après avoir abandonner mon premier serveur discord, j'ai crée celui-ci.
 Je l'ai quitter lors de mon "BlackOut" discord, mais je suis revenu quelques jours après.
-Crée avec l'aide de NewYorkiki, ce serveur s'est développer et à été lus ou moins abandonner.
+Crée avec l'aide de NewYorkiki, ce serveur s'est développer et à été plus ou moins abandonner.
 
 ### [Bientôt👀](https://coming-soon.eu)
 
-Oui oui, vous avez bien lu. j'ai prévu un nouveau projet pour bientôt ! Pour 'autres détails, il faudra attendre la sortie du projet !
+Oui oui, vous avez bien lu. j'ai prévu un nouveau projet pour bientôt ! Pour d'autres détails, il faudra attendre la sortie du projet !
 
 ## 📞 Me Contacter
 
