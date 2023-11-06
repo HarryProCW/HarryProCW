@@ -1,4 +1,11 @@
-### Hi there 👋
+### Salut ! Je suis Harry 👋🏻 :)
+
+Je suis un apprenti développeur maitrisant ces languages :
+- HTML -> Niveau correct
+- CSS -> Niveau Moyen
+- JS -> Aucune connaissances quasiment.
+
+
 
 <!--
 **HarryProCW/HarryProCW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
