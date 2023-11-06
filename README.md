@@ -33,6 +33,6 @@ Oui oui, vous avez bien lu. j'ai prévu un nouveau projet pour bientôt ! Pour '
 
 ## 📞 Me Contacter
 
-Mail : [tl42pts1@duck.com](mailto:tl42pts1@duck.com)
-Discord : Harry456
-Autre : [Is coming](https://coming-soon.eu)
+- Mail : [tl42pts1@duck.com](mailto:tl42pts1@duck.com)
+- Discord : Harry456
+- Autre : [Is coming](https://coming-soon.eu)
