@@ -39,4 +39,4 @@ Oui oui, vous avez bien lu. j'ai prévu un nouveau projet pour bientôt ! Pour d
 
 - Mail : [tl42pts1@duck.com](mailto:tl42pts1@duck.com)
 - Discord : Harry456
-- Autre : [Is coming](https://coming-soon.eu) <a href="https://coming-soon.eu" target="_blank">https://img.shields.io/badge/Is_Coming</a>
+- Autre : <a href="https://coming-soon.eu" target="_blank">Is Coming</a>
