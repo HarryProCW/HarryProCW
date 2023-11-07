@@ -8,8 +8,8 @@ Je suis un apprenti développeur maitrisant ces languages :
 J'ai 22 ans et je suis étudiant.
 Je parles :
 - Le Français (langue maternelle)
-- L'Anglais (LV1, Niveau correct)
-- L'Allemand (LV2, Niveau correct)
+- L'Anglais (LV1, Niveau moyen correct)
+- L'Allemand (LV2, Niveau moyen correct)
 - L'Italien (Apprentissage en cours, Niveau débutant)
 
 
@@ -31,8 +31,12 @@ Crée avec l'aide de NewYorkiki, ce serveur s'est développer et à été plus o
 
 Oui oui, vous avez bien lu. j'ai prévu un nouveau projet pour bientôt ! Pour d'autres détails, il faudra attendre la sortie du projet !
 
+
+## My Links
+
+
 ## 📞 Me Contacter
 
 - Mail : [tl42pts1@duck.com](mailto:tl42pts1@duck.com)
 - Discord : Harry456
-- Autre : [Is coming](https://coming-soon.eu)
+- Autre : [Is coming](https://coming-soon.eu) <a href="https://coming-soon.eu" target="_blank">https://img.shields.io/badge/Is_Coming</a>
