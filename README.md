@@ -9,28 +9,20 @@ J'ai 22 ans et je suis étudiant.
 Je parles :
 - Le Français (langue maternelle)
 - L'Anglais (LV1, Niveau moyen correct)
-- L'Allemand (LV2, Niveau moyen correct)
-- L'Italien (Apprentissage en cours, Niveau débutant)
+- L'Allemand (LV2, Niveau moyen)
+
 
 
 ## Qui suis-je ?
 
-Eh bien, je suis Harry comme dit plus tôt et j'ai 22 ans. Étant étudiant, je n'ai pas tellement le temps pour mes passions et projets. 
-Je suis passionné par l'informatique depuis mon plus jeune âge. J'apprends l'Italien et/ou apprend de nouveaux languages de programation ou encore, je joue :)
+Eh bien, je suis Harry comme dit plus tôt et j'ai 24 ans.
+Je suis passionné par l'informatique depuis mon plus jeune âge. J'apprend de nouveaux languages de programation ou encore, je joue :)
 
 ## 🗃️ Mes Projets
 
-### [📨 Diffuse ta pub](https://discord.gg/BU6HFM8UbP)
+### [FranWan](https://github.com/Harry4567/FranWan)
 
-Ahhhh Diffuse Ta Pub. Un serveur crée le lundi 20 décembre 2021 à 17:38.
-Celui-ci est un serveur pub. Après avoir abandonner mon premier serveur discord, j'ai crée celui-ci.
-Je l'ai quitter lors de mon "BlackOut" discord, mais je suis revenu quelques jours après.
-Crée avec l'aide de NewYorkiki, ce serveur s'est développer et à été plus ou moins abandonner.
-
-### [Bientôt👀](https://coming-soon.eu)
-
-Oui oui, vous avez bien lu. j'ai prévu un nouveau projet pour bientôt ! Pour d'autres détails, il faudra attendre la sortie du projet !
-
+FranWan est une application mobile opensource qui vous notifie de votre emploi du temps quotidien (cours, salle). Initialement créée par des humains refaite par IA, elle continue d'évoluer avec des mises à jour régulières.
 
 ## My Links
 
